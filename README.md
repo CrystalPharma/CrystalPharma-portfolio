@@ -27,4 +27,4 @@ Navigate to her live Portfolio website via the following hyperlink:
 MIT License
 
 ## Badges
-![GitHub top language](https://img.shields.io/github/languages/top/CrystalPharma/CrystalPharma-portfolio)](https://crystalpharma.github.io/CrystalPharma-portfolio/)
+![GitHub top language](https://img.shields.io/github/languages/top/CrystalPharma/CrystalPharma-portfolio)](https://github.com/CrystalPharma/CrystalPharma-portfolio/)
