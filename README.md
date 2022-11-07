@@ -15,7 +15,7 @@ Not applicable
 
 ## Usage
 Navigate to her live Portfolio website via the following hyperlink: 
-
+https://crystalpharma.github.io/CrystalPharma-portfolio/
 
 ## Credits
 - Edx Trilogy Course 
