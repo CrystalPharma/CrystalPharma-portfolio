@@ -28,4 +28,4 @@ MIT License
 
 ## Badges
 ![GitHub top language](https://img.shields.io/github/languages/top/CrystalPharma/CrystalPharma-portfolio)
-![GitHub](https://img.shields.io/github/license/CrystalPharma/CrystalPharma-portfolio)
+![GitHub mit license](https://img.shields.io/github/license/CrystalPharma/CrystalPharma-portfolio)
