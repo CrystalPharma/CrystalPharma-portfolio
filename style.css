@@ -244,7 +244,7 @@ header h3 > a:focus, header h3 > a:hover {
     width: 100%;
   }
 .profile-pic {
-    max-width: 85%;
+    max-width: 90%;
   }
 #work-container img:nth-child(2) {
     grid-column: span 6;
