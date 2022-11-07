@@ -5,17 +5,17 @@ The portfolio website also include active links to her current CV. Should there 
 
 ## Portfolio Screenshot
 ### Portfolio Website PC viewpoint 
-<img src="./PC-screen.png" alt="PC-screen-application"/>
+<img src="./images/PC-screen.png" alt="PC-screen-application"/>
 
 <!-- ### Portfolio Website Mobile viewpoint
-<img src="./mobile-screen.png" alt="mobile-screen-application"/> -->
+<img src="./images/mobile-screen.png" alt="mobile-screen-application"/> -->
 
 ## Installation
 Not applicable
 
 ## Usage
 Navigate to her live Portfolio website via the following hyperlink: 
-https://crystalpharma.github.io/CrystalPharma-portfolio/
+
 
 ## Credits
 - Edx Trilogy Course 
